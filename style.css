@@ -2,6 +2,8 @@ img {
     max-height: 23em;
 }
 div#carouselJackspedicey, div.carousel, div.slide, div.carousel-inner, div.carousel-item-active, div.carousel-item  {
-    padding: 0 10%;
-    
+    padding: 0 10%; 
+}
+p > img {
+    padding: 0 35%;
 }
