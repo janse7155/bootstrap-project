@@ -2,7 +2,11 @@ div#carouselJackspedicey, div.carousel, div.slide, div.carousel-inner, div.carou
     padding: 0 10%; 
 }
 p > a > img {
-    padding: 0 40%;
-    max-height: 23em;
+    max-height: 20em;
 }
 
+img.banner {
+    width: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
