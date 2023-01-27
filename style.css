@@ -3,15 +3,24 @@ div#carouselJackspedicey, div.carousel, div.slide, div.carousel-inner, div.carou
 }
 p > a > img {
     max-height: 20em;
+    width: 15em;
 }
 
 img.banner {
     width: 100%;
-    padding-left: 22%;
-    padding-right: 22%;
+    height: 16em;
 }
 button {
     width: 100%;
     padding-left: 15%;
     padding-right: 15%; 
+}
+#primary {
+    background-color: #1B9838;
+}
+#secondary {
+    background-color: #BCCC9E;
+}
+#accent {
+    color: #11190D;
 }
