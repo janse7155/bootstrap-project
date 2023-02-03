@@ -32,3 +32,11 @@ button {
 #accent {
     color: #11190D;
 }
+#background {
+    background-image: url(Jacksepticeye5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title-text {
+    color: #98f4ab;
+}
